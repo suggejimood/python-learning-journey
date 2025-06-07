@@ -1,0 +1,2 @@
+def selamVer():
+    print("Merhaba.")
