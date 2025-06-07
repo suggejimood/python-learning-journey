@@ -1,24 +1,14 @@
 s = "Merhaba"
 
-
 print(s.upper())
-
 print(s.lower())
-
-
 print(s.title())
-
 print(s.capitalize())
-
 s = "Merhaba Dünya"
 print(s.strip())
-
 print(s.replace("a", "q"))
-
 print(s.find("a"))
-
 print(s.startswith("Me"))
-
 print(s.endswith("cs"))
 
 name = "Mehmet"
